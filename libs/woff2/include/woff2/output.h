@@ -12,6 +12,7 @@
 #include <algorithm>
 #include <cstring>
 #include <memory>
+#include <cstdint>
 #include <string>
 
 namespace woff2 {
